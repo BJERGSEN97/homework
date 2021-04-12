@@ -8,6 +8,6 @@
 ### Description
 article.txt是需要提取单词频率的文章。
 stopword.txt为对应所给pdf的第二步中的停词表。
-pastForm.txt为对应所给pdf的第四步中的时态标。
+pastForm.txt为对应所给pdf的第四步中的时态标注。
 ### Results
 最终结果在程序中显示
